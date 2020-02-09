@@ -5,7 +5,7 @@ Python bot that can automate you're retweets and likes with your favorite keywor
 get you're API key from the twitter's devlopper website: [https://developer.twitter.com/](https://developer.twitter.com/)
 
 ## Python3 app.py
-Enter this command into you're terminal (Mac and Linux) or Command Prompt (Windows) to run the bot. 
+Enter this command into you're terminal (Mac and Linux) or Command Prompt (Windows) to deploy the bot locally. 
 
 ## Python Installation
 Install Python 3, the lastest version from the official python website: [https://www.python.org/](https://www.python.org/)
