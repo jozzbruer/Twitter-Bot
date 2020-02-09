@@ -10,11 +10,11 @@ import time
 # Import in your Twitter application keys, tokens, and secrets.
 # Make sure you add your own keys
 
-API_Key = 'HiagdSG72jxVUBTYmn1RDqB4e'
-API_SECRET_Key = 'KhVkn1vCNvZDs4rdYt8lBTQA3zxk2vVPqFNrMdSDKzTIGJtoIS'
+API_Key = '<YOURE API KEY HERE>'
+API_SECRET_Key = 'API SECRET KEY HERE  '
 
-ACCESS_TOKEN = '392341891-VQOG0xbITcYqyfQgC8sMqrcxTeJX0e3MUcwnHG6j'
-ACCESS_TOKEN_SECRET = 'F0LsArgZtbM6Fc8cuEleKlt32Pna7mZImVVYDAfR0iBpc'
+ACCESS_TOKEN = 'ACCESS TOKEN HERE'
+ACCESS_TOKEN_SECRET = 'ACCESS TOKEN SECRET HERE'
 
 
 auth = tweepy.OAuthHandler(API_Key,API_SECRET_Key)
