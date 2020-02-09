@@ -12,8 +12,10 @@ Install Python 3, the lastest version from the official python website: [https:/
 
 ## Requirement
 1. Internet Connection
-2. Python installation
+2. Python installation (it's free)
 3. Terminal
+4. Twitter Account (it's free)
+5. Twitter API access (it's free)
 
 ## Advice
 Feel free to follow me adn DM me on Twitter : [https://twitter.com/jozzbruer](https://twitter.com/jozzbruer)
