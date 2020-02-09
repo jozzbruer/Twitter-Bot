@@ -1,4 +1,4 @@
-### Twitter-Bot
+# Twitter-Bot
 Python bot that can automate you're retweets and likes with your favorite keywords and  hashtags
 
 ## Notice
